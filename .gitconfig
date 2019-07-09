@@ -1,0 +1,28 @@
+[merge]
+	tool = meld
+[mergetool "meld"]
+	path = C:/Program Files (x86)/Meld/Meld.exe
+[diff]
+	tool = meld
+[difftool]
+	prompt = false
+[alias]
+  ps = push
+  pl = pull
+  st = status
+	ci = commit -m
+	cia = commit -am
+	ck = checkout
+	br = branch
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%C(magenta) %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  lm = log --no-merges --color --date=format:'%Y-%m-%d %H:%M:%S' --author='Kris Ren' --pretty=format:'%Cred%h%Creset -%C(yellow)%d%C(magenta) %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	lss = log --no-merges --color --stat --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%C(magenta) %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[credential]
+	helper = store
+[user]
+  name = renq
+  email = 943042991@qq.com
+[gui] 
+  encoding = utf-8 
+[mergetool]
+	keepBackup = false
