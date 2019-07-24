@@ -1,0 +1,57 @@
+{
+  "inbound": [
+    {
+      "localPort": 10808,
+      "protocol": "socks",
+      "udpEnabled": true,
+      "sniffingEnabled": true
+    }
+  ],
+  "logEnabled": false,
+  "loglevel": "warning",
+  "index": 0,
+  "vmess": [
+    {
+      "configVersion": 2,
+      "address": "152.32.186.221",
+      "port": 10010,
+      "id": "8b1743a8-735d-4a79-bbb8-e5224fb83fee",
+      "alterId": 233,
+      "security": "chacha20-poly1305",
+      "network": "tcp",
+      "remarks": "Alien",
+      "headerType": "none",
+      "requestHost": "",
+      "path": "",
+      "streamSecurity": "",
+      "allowInsecure": "",
+      "configType": 1,
+      "testResult": "",
+      "subid": ""
+    }
+  ],
+  "muxEnabled": true,
+  "domainStrategy": "IPIfNonMatch",
+  "routingMode": "0",
+  "useragent": [],
+  "userdirect": [],
+  "userblock": [],
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "sysAgentEnabled": true,
+  "listenerType": 2,
+  "urlGFWList": null,
+  "allowLANConn": false,
+  "remoteDNS": null,
+  "subItem": null,
+  "uiItem": {
+    "mainQRCodeWidth": 600
+  }
+}
