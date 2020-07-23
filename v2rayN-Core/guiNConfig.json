@@ -9,13 +9,35 @@
   ],
   "logEnabled": false,
   "loglevel": "warning",
+<<<<<<< HEAD
   "index": 3,
+=======
+  "index": 2,
+>>>>>>> cebd3b976a90103f9009c82542594ca8d5aaaafd
   "vmess": [
     {
       "configVersion": 2,
       "address": "152.32.186.221",
+      "port": 10086,
+      "id": "a123456..",
+      "alterId": 0,
+      "security": "aes-128-cfb",
+      "network": "",
+      "remarks": "233v2.com_ss_152.32.186.221",
+      "headerType": "",
+      "requestHost": "",
+      "path": "",
+      "streamSecurity": "",
+      "allowInsecure": "",
+      "configType": 3,
+      "testResult": "",
+      "subid": ""
+    },
+    {
+      "configVersion": 2,
+      "address": "152.32.186.221",
       "port": 10010,
-      "id": "8b1743a8-735d-4a79-bbb8-e5224fb83fee",
+      "id": "7b111962-4aac-45c1-b846-ae9a4e2d9340",
       "alterId": 233,
       "security": "chacha20-poly1305",
       "network": "tcp",
@@ -32,6 +54,7 @@
     {
       "configVersion": 2,
       "address": "152.32.186.221",
+<<<<<<< HEAD
       "port": 10010,
       "id": "7b111962-4aac-45c1-b846-ae9a4e2d9340",
       "alterId": 0,
@@ -50,6 +73,8 @@
     {
       "configVersion": 2,
       "address": "152.32.186.221",
+=======
+>>>>>>> cebd3b976a90103f9009c82542594ca8d5aaaafd
       "port": 11000,
       "id": "zhangliang123...",
       "alterId": 0,
@@ -64,6 +89,7 @@
       "configType": 3,
       "testResult": "",
       "subid": ""
+<<<<<<< HEAD
     },
     {
       "configVersion": 2,
@@ -82,6 +108,8 @@
       "configType": 4,
       "testResult": "",
       "subid": ""
+=======
+>>>>>>> cebd3b976a90103f9009c82542594ca8d5aaaafd
     }
   ],
   "muxEnabled": true,

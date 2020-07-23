@@ -28,17 +28,29 @@
   "outbounds": [
     {
       "tag": "proxy",
+<<<<<<< HEAD
       "protocol": "socks",
+=======
+      "protocol": "shadowsocks",
+>>>>>>> cebd3b976a90103f9009c82542594ca8d5aaaafd
       "settings": {
         "vnext": null,
         "servers": [
           {
             "email": null,
+<<<<<<< HEAD
             "address": "127.0.0.1",
             "method": "chacha20",
             "ota": false,
             "password": "123456",
             "port": 1080,
+=======
+            "address": "152.32.186.221",
+            "method": "aes-256-cfb",
+            "ota": false,
+            "password": "zhangliang123...",
+            "port": 11000,
+>>>>>>> cebd3b976a90103f9009c82542594ca8d5aaaafd
             "level": 1
           }
         ],
