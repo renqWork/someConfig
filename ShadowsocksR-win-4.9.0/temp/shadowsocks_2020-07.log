@@ -1,0 +1,583 @@
+[2020-07-23 14:40:24] ShadowsocksR started on port 1080
+[2020-07-23 14:40:31] [Info] Direct connect beacons.gvt2.com:443
+[2020-07-23 14:40:31] [Info] Direct connect beacons.gvt2.com:443
+[2020-07-23 14:40:31] [Info] Direct connect beacons.gvt2.com:443
+[2020-07-23 14:40:32] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:40:34] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-07-23 14:40:34] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:40:34] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:40:36] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:40:39] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:40:41] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:40:43] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:40:46] [Info] Disconnect raw.githubusercontent.com:443
+[2020-07-23 14:40:46] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-07-23 14:40:46] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:40:48] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:40:50] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:40:53] [Info] Disconnect raw.githubusercontent.com:443
+[2020-07-23 14:40:53] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-07-23 14:40:53] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:40:55] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:40:58] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:41:00] [Info] Disconnect raw.githubusercontent.com:443
+[2020-07-23 14:41:00] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-07-23 14:41:00] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:41:01] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:41:03] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:41:05] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:41:07] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:41:09] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:41:12] [Info] Disconnect raw.githubusercontent.com:443
+[2020-07-23 14:41:12] [Error] connect to update server error
+[2020-07-23 14:41:13] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:41:14] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:41:14] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2020-07-23 14:41:16] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:41:19] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:41:21] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:41:23] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:41:26] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:41:28] [Info] Direct connect infinityicon.infinitynewtab.com:443
+[2020-07-23 14:41:28] [Info] Direct connect infinityicon.infinitynewtab.com:443
+[2020-07-23 14:41:28] [Info] Direct connect infinityicon.infinitynewtab.com:443
+[2020-07-23 14:41:28] [Info] Direct connect infinityicon.infinitynewtab.com:443
+[2020-07-23 14:41:28] [Info] Direct connect infinityicon.infinitynewtab.com:443
+[2020-07-23 14:41:28] [Info] Direct connect infinityicon.infinitynewtab.com:443
+[2020-07-23 14:41:28] [Info] Connect www.google.com:443
+[2020-07-23 14:41:28] [Info] Connect www.google.com:443
+[2020-07-23 14:41:28] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:41:31] [Info] Connect www.google.com:443
+[2020-07-23 14:41:33] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:41:33] [Info] Connect www.google.com:443
+[2020-07-23 14:41:35] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:41:38] [Info] Connect www.google.com:443
+[2020-07-23 14:41:40] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:41:42] [Info] Connect www.google.com:443
+[2020-07-23 14:41:44] [Info] Disconnect www.google.com:443
+[2020-07-23 14:41:47] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:41:49] [Info] Disconnect www.google.com:443
+[2020-07-23 14:41:51] [Info] Disconnect android.clients.google.com:443
+[2020-07-23 14:42:05] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:42:08] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:42:10] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:42:13] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:43:04] [Info] Connect github.com:443
+[2020-07-23 14:43:04] [Info] Connect github.com:443
+[2020-07-23 14:43:04] [Info] Connect github.githubassets.com:443
+[2020-07-23 14:43:07] [Info] Connect github.com:443
+[2020-07-23 14:43:09] [Info] Connect www.google.com:443
+[2020-07-23 14:43:09] [Info] Connect github.com:443
+[2020-07-23 14:43:11] [Info] Connect github.githubassets.com:443
+[2020-07-23 14:43:14] [Info] Connect github.com:443
+[2020-07-23 14:43:16] [Info] Connect www.google.com:443
+[2020-07-23 14:43:16] [Info] Connect www.google.com:443
+[2020-07-23 14:43:16] [Info] Connect www.google.com:443
+[2020-07-23 14:43:17] [Info] Connect www.google.com:443
+[2020-07-23 14:43:18] [Info] Direct connect 33h.co:80
+[2020-07-23 14:43:19] [Info] Connect github.com:443
+[2020-07-23 14:43:19] [Info] Connect github.com:443
+[2020-07-23 14:43:21] [Info] Connect github.githubassets.com:443
+[2020-07-23 14:43:24] [Info] Disconnect github.com:443
+[2020-07-23 14:43:24] [Info] Connect github.com:443
+[2020-07-23 14:43:26] [Info] Connect www.google.com:443
+[2020-07-23 14:43:28] [Info] Connect www.google.com:443
+[2020-07-23 14:43:30] [Info] Connect www.google.com:443
+[2020-07-23 14:43:33] [Info] Connect www.google.com:443
+[2020-07-23 14:43:35] [Info] Connect github.com:443
+[2020-07-23 14:43:37] [Info] Disconnect github.com:443
+[2020-07-23 14:43:39] [Info] Disconnect github.githubassets.com:443
+[2020-07-23 14:43:42] [Info] Connect github.com:443
+[2020-07-23 14:43:44] [Info] Connect www.google.com:443
+[2020-07-23 14:43:46] [Info] Connect www.google.com:443
+[2020-07-23 14:43:48] [Info] Disconnect www.google.com:443
+[2020-07-23 14:43:51] [Info] Connect www.google.com:443
+[2020-07-23 14:43:53] [Info] Connect github.com:443
+[2020-07-23 14:43:54] [Info] Connect github.com:443
+[2020-07-23 14:43:54] [Info] Connect github.githubassets.com:443
+[2020-07-23 14:43:55] [Info] Connect github.com:443
+[2020-07-23 14:43:57] [Info] Disconnect www.google.com:443
+[2020-07-23 14:44:00] [Info] Disconnect www.google.com:443
+[2020-07-23 14:44:02] [Info] Disconnect www.google.com:443
+[2020-07-23 14:44:04] [Info] Disconnect github.com:443
+[2020-07-23 14:44:06] [Info] Connect github.com:443
+[2020-07-23 14:44:09] [Info] Connect github.githubassets.com:443
+[2020-07-23 14:44:11] [Info] Disconnect github.com:443
+[2020-07-23 14:44:13] [Info] Connect github.com:443
+[2020-07-23 14:44:15] [Info] Connect github.githubassets.com:443
+[2020-07-23 14:44:16] [Info] Connect www.google.com:443
+[2020-07-23 14:44:17] [Info] Connect www.google.com:443
+[2020-07-23 14:44:17] [Info] Direct connect 33h.co:80
+[2020-07-23 14:44:18] [Info] Disconnect github.com:443
+[2020-07-23 14:44:18] [Info] Connect github.com:443
+[2020-07-23 14:44:19] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:44:20] [Info] Disconnect github.githubassets.com:443
+[2020-07-23 14:44:22] [Info] Connect www.google.com:443
+[2020-07-23 14:44:24] [Info] Connect www.google.com:443
+[2020-07-23 14:44:27] [Info] Connect github.com:443
+[2020-07-23 14:44:29] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:44:30] [Info] Connect www.google.com:443
+[2020-07-23 14:44:30] [Info] Connect www.google.com:443
+[2020-07-23 14:44:31] [Info] Direct connect 33h.co:80
+[2020-07-23 14:44:31] [Info] Connect github.com:443
+[2020-07-23 14:44:31] [Info] Connect www.google.com:443
+[2020-07-23 14:44:33] [Info] Connect www.google.com:443
+[2020-07-23 14:44:36] [Info] Connect github.com:443
+[2020-07-23 14:44:36] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:44:36] [Info] Direct connect ss0.baidu.com:443
+[2020-07-23 14:44:37] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:44:38] [Info] Direct connect ss1.baidu.com:443
+[2020-07-23 14:44:38] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:44:38] [Info] Direct connect ss2.baidu.com:443
+[2020-07-23 14:44:38] [Info] Direct connect ss3.baidu.com:443
+[2020-07-23 14:44:38] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:44:38] [Info] Direct connect dss0.bdstatic.com:443
+[2020-07-23 14:44:38] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2020-07-23 14:44:38] [Info] Direct connect dss1.bdstatic.com:443
+[2020-07-23 14:44:38] [Info] Direct connect sp1.baidu.com:443
+[2020-07-23 14:44:38] [Info] Direct connect sp0.baidu.com:443
+[2020-07-23 14:44:40] [Info] Direct connect www.iteye.com:443
+[2020-07-23 14:44:40] [Info] Direct connect www.iteye.com:443
+[2020-07-23 14:44:40] [Info] Connect www.google.com:443
+[2020-07-23 14:44:40] [Info] Direct connect csdnimg.cn:443
+[2020-07-23 14:44:40] [Info] Direct connect g.csdnimg.cn:443
+[2020-07-23 14:44:41] [Info] Direct connect www.googletagmanager.com:443
+[2020-07-23 14:44:41] [Info] Direct connect hm.baidu.com:443
+[2020-07-23 14:44:41] [Info] Direct connect stat.iteye.com:443
+[2020-07-23 14:44:41] [Info] Direct connect csdnimg.cn:443
+[2020-07-23 14:44:41] [Info] Direct connect www.google-analytics.com:443
+[2020-07-23 14:44:42] [Info] Connect www.google.com:443
+[2020-07-23 14:44:45] [Info] Connect github.com:443
+[2020-07-23 14:44:47] [Info] Disconnect www.google.com:443
+[2020-07-23 14:44:49] [Info] Disconnect www.google.com:443
+[2020-07-23 14:44:51] [Info] Disconnect github.com:443
+[2020-07-23 14:44:53] [Info] Direct connect download.csdn.net:443
+[2020-07-23 14:44:53] [Info] Direct connect download.csdn.net:443
+[2020-07-23 14:44:54] [Info] Disconnect android.clients.google.com:443
+[2020-07-23 14:44:55] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:44:55] [Info] Direct connect avatar.csdn.net:443
+[2020-07-23 14:44:55] [Info] Direct connect avatar.csdn.net:443
+[2020-07-23 14:44:55] [Info] Direct connect profile.csdnimg.cn:443
+[2020-07-23 14:44:55] [Info] Direct connect g.alicdn.com:443
+[2020-07-23 14:44:55] [Info] Direct connect gsp0.baidu.com:443
+[2020-07-23 14:44:55] [Info] Direct connect msg.csdn.net:443
+[2020-07-23 14:44:55] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:44:55] [Info] Direct connect msg.csdn.net:443
+[2020-07-23 14:44:56] [Info] Direct connect statistic.csdn.net:443
+[2020-07-23 14:44:56] [Info] Direct connect zhannei-dm.csdn.net:443
+[2020-07-23 14:44:56] [Info] Connect www.google.com:443
+[2020-07-23 14:44:56] [Info] Direct connect ynuf.aliapp.org:443
+[2020-07-23 14:44:56] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:44:56] [Info] Direct connect u0mbl.tdum.alibaba.com:443
+[2020-07-23 14:44:56] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:44:56] [Info] Direct connect beacon.tingyun.com:443
+[2020-07-23 14:44:58] [Info] Connect www.google.com:443
+[2020-07-23 14:45:00] [Info] Connect github.com:443
+[2020-07-23 14:45:03] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:05] [Info] Disconnect www.google.com:443
+[2020-07-23 14:45:07] [Info] Disconnect www.google.com:443
+[2020-07-23 14:45:09] [Info] Disconnect github.com:443
+[2020-07-23 14:45:12] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:14] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:45:15] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:17] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:20] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:22] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:45:24] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:26] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:29] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:29] [Info] Direct connect config.pinyin.sogou.com:80
+[2020-07-23 14:45:29] [Info] Direct connect cdn2.ime.sogou.com:80
+[2020-07-23 14:45:31] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:45:34] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-07-23 14:45:34] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:45:35] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:36] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:45:38] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:41] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:45:43] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:45] [Info] Disconnect raw.githubusercontent.com:443
+[2020-07-23 14:45:45] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-07-23 14:45:45] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:45:47] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:45:50] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:45:52] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:45:53] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:55] [Info] Disconnect raw.githubusercontent.com:443
+[2020-07-23 14:45:55] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-07-23 14:45:55] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:45:57] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:45:59] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:46:01] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:46:04] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:46:06] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:46:08] [Info] Disconnect raw.githubusercontent.com:443
+[2020-07-23 14:46:08] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-07-23 14:46:08] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:46:11] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:46:13] [Info] Connect raw.githubusercontent.com:443
+[2020-07-23 14:46:15] [Info] Disconnect raw.githubusercontent.com:443
+[2020-07-23 14:46:15] [Error] connect to update server error
+[2020-07-23 14:46:54] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:46:56] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:46:58] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:01] [Info] Disconnect www.googleapis.com:443
+[2020-07-23 14:47:02] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:05] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:07] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:10] [Info] Disconnect www.googleapis.com:443
+[2020-07-23 14:47:12] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:15] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:17] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:20] [Info] Disconnect www.googleapis.com:443
+[2020-07-23 14:47:25] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:27] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:29] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:32] [Info] Disconnect www.googleapis.com:443
+[2020-07-23 14:47:40] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:43] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:43] [Info] Direct connect config.pinyin.sogou.com:80
+[2020-07-23 14:47:43] [Info] Direct connect cdn2.ime.sogou.com:80
+[2020-07-23 14:47:45] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:47:48] [Info] Disconnect www.googleapis.com:443
+[2020-07-23 14:48:04] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:48:07] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:48:09] [Info] Connect www.googleapis.com:443
+[2020-07-23 14:48:12] [Info] Disconnect www.googleapis.com:443
+[2020-07-23 14:49:10] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:49:10] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:49:12] [Info] Direct connect beacon.tingyun.com:443
+[2020-07-23 14:49:18] [Info] Direct connect img.infinitynewtab.com:443
+[2020-07-23 14:50:06] [Info] Direct connect hm.baidu.com:443
+[2020-07-23 14:50:09] [Info] Direct connect sp0.baidu.com:443
+[2020-07-23 14:50:09] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:09] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:09] [Info] Direct connect download.csdn.net:443
+[2020-07-23 14:50:09] [Info] Direct connect csdnimg.cn:443
+[2020-07-23 14:50:09] [Info] Direct connect g.csdnimg.cn:443
+[2020-07-23 14:50:09] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:50:10] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:50:10] [Info] Direct connect profile.csdnimg.cn:443
+[2020-07-23 14:50:10] [Info] Direct connect msg.csdn.net:443
+[2020-07-23 14:50:10] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:50:10] [Info] Direct connect gsp0.baidu.com:443
+[2020-07-23 14:50:10] [Info] Direct connect msg.csdn.net:443
+[2020-07-23 14:50:11] [Info] Direct connect ynuf.aliapp.org:443
+[2020-07-23 14:50:11] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:50:11] [Info] Direct connect zhannei-dm.csdn.net:443
+[2020-07-23 14:50:11] [Info] Direct connect statistic.csdn.net:443
+[2020-07-23 14:50:11] [Info] Direct connect ynuf.aliapp.org:443
+[2020-07-23 14:50:12] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:50:13] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:50:15] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:50:18] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:50:29] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:50:32] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:50:32] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 203.119.169.158:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-07-23 14:50:33] [Info] Direct connect ss0.baidu.com:443
+[2020-07-23 14:50:33] [Info] Direct connect ss2.baidu.com:443
+[2020-07-23 14:50:33] [Info] Direct connect ss1.baidu.com:443
+[2020-07-23 14:50:33] [Info] Direct connect ss3.baidu.com:443
+[2020-07-23 14:50:34] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:50:36] [Info] Direct connect sp1.baidu.com:443
+[2020-07-23 14:50:37] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:50:42] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:42] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:42] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:42] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:42] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:43] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:43] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:43] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:43] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:43] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:43] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:46] [Info] Direct connect s.wisdom.www.sogou.com:80
+[2020-07-23 14:50:47] [Info] Direct connect s.wisdom.www.sogou.com:80
+[2020-07-23 14:50:47] [Info] Direct connect s.wisdom.www.sogou.com:80
+[2020-07-23 14:50:47] [Info] Direct connect s.wisdom.www.sogou.com:80
+[2020-07-23 14:50:48] [Info] Direct connect s.wisdom.www.sogou.com:80
+[2020-07-23 14:50:48] [Info] Direct connect s.wisdom.www.sogou.com:80
+[2020-07-23 14:50:48] [Info] Direct connect s.wisdom.www.sogou.com:80
+[2020-07-23 14:50:48] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:48] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:48] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:50:54] [Info] Direct connect avatar.csdn.net:443
+[2020-07-23 14:50:54] [Info] Direct connect hm.baidu.com:443
+[2020-07-23 14:50:54] [Info] Direct connect gsp0.baidu.com:443
+[2020-07-23 14:50:54] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:50:55] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:50:55] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:50:57] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:50:58] [Info] Direct connect passport.csdn.net:443
+[2020-07-23 14:50:58] [Info] Direct connect passport.csdn.net:443
+[2020-07-23 14:50:58] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:50:59] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:01] [Info] Direct connect hm.baidu.com:443
+[2020-07-23 14:51:02] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:51:03] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:05] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:07] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:08] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:10] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:12] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:51:14] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:14] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:17] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:19] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:51:20] [Info] Direct connect config.pinyin.sogou.com:80
+[2020-07-23 14:51:20] [Info] Direct connect cdn2.ime.sogou.com:80
+[2020-07-23 14:51:21] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:23] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:51:27] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:30] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:32] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:35] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:51:36] [Info] Direct connect config.pinyin.sogou.com:80
+[2020-07-23 14:51:36] [Info] Direct connect cdn2.ime.sogou.com:80
+[2020-07-23 14:51:40] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:43] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:45] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:48] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:51:49] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:51] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:51:51] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:53] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:51:56] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:51:58] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:52:00] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:52:02] [Info] Disconnect android.clients.google.com:443
+[2020-07-23 14:52:30] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:52:33] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:52:35] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:52:38] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:52:47] [Info] Direct connect hm.baidu.com:443
+[2020-07-23 14:52:47] [Info] Direct connect hm.baidu.com:443
+[2020-07-23 14:52:47] [Info] Direct connect i.csdn.net:443
+[2020-07-23 14:52:47] [Info] Direct connect i.csdn.net:443
+[2020-07-23 14:52:47] [Info] Direct connect g.csdnimg.cn:443
+[2020-07-23 14:52:48] [Info] Direct connect castatic.fengkongcloud.com:443
+[2020-07-23 14:52:50] [Info] Connect www.google.com:443
+[2020-07-23 14:52:53] [Info] Connect www.google.com:443
+[2020-07-23 14:52:55] [Info] Connect www.google.com:443
+[2020-07-23 14:52:57] [Info] Disconnect www.google.com:443
+[2020-07-23 14:53:06] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:53:06] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:53:08] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:53:10] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:53:13] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:53:15] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:53:22] [Info] Direct connect hm.baidu.com:443
+[2020-07-23 14:53:24] [Info] Direct connect sp0.baidu.com:443
+[2020-07-23 14:53:24] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:53:24] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:53:24] [Info] Connect github.com:443
+[2020-07-23 14:53:24] [Info] Connect github.com:443
+[2020-07-23 14:53:24] [Info] Connect github.githubassets.com:443
+[2020-07-23 14:53:25] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:53:25] [Info] Direct connect dss0.bdstatic.com:443
+[2020-07-23 14:53:25] [Info] Direct connect sp1.baidu.com:443
+[2020-07-23 14:53:25] [Info] Direct connect sp2.baidu.com:443
+[2020-07-23 14:53:25] [Info] Direct connect sp1.baidu.com:443
+[2020-07-23 14:53:26] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:53:26] [Info] Direct connect passport.baidu.com:443
+[2020-07-23 14:53:27] [Info] Connect github.com:443
+[2020-07-23 14:53:29] [Info] Connect github.githubassets.com:443
+[2020-07-23 14:53:31] [Info] Connect github.com:443
+[2020-07-23 14:53:34] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:53:36] [Info] Connect github.com:443
+[2020-07-23 14:53:38] [Info] Connect github.githubassets.com:443
+[2020-07-23 14:53:40] [Info] Connect github.com:443
+[2020-07-23 14:53:43] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:53:45] [Info] Disconnect github.com:443
+[2020-07-23 14:53:47] [Info] Disconnect github.githubassets.com:443
+[2020-07-23 14:53:49] [Info] Disconnect github.com:443
+[2020-07-23 14:53:52] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:53:52] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2020-07-23 14:54:02] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:54:05] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:54:07] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:54:10] [Info] Disconnect android.clients.google.com:443
+[2020-07-23 14:54:12] [Info] Direct connect dss1.bdstatic.com:443
+[2020-07-23 14:54:13] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:15] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:18] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:20] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:54:22] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:22] [Info] Connect zhuangold.com:80
+[2020-07-23 14:54:24] [Info] Direct connect download.csdn.net:443
+[2020-07-23 14:54:24] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:25] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:54:25] [Info] Direct connect msg.csdn.net:443
+[2020-07-23 14:54:25] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:25] [Info] Direct connect msg.csdn.net:443
+[2020-07-23 14:54:25] [Info] Direct connect hm.baidu.com:443
+[2020-07-23 14:54:25] [Info] Direct connect gsp0.baidu.com:443
+[2020-07-23 14:54:26] [Info] Direct connect statistic.csdn.net:443
+[2020-07-23 14:54:26] [Info] Direct connect zhannei-dm.csdn.net:443
+[2020-07-23 14:54:26] [Info] Connect zhuangold.com:80
+[2020-07-23 14:54:27] [Info] Direct connect ynuf.aliapp.org:443
+[2020-07-23 14:54:27] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:54:27] [Info] Direct connect event.csdn.net:443
+[2020-07-23 14:54:29] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:31] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:33] [Info] Connect zhuangold.com:80
+[2020-07-23 14:54:35] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:54:36] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:54:38] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:40] [Info] Disconnect zhuangold.com:80
+[2020-07-23 14:54:42] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:54:44] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:54:47] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:54:49] [Info] Disconnect android.clients.google.com:443
+[2020-07-23 14:54:50] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:52] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:55] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:54:57] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:54:57] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:54:57] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:00] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:02] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:04] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:05] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:55:07] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:09] [Info] Disconnect www.v2rayssr.com:443
+[2020-07-23 14:55:09] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:11] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:55:13] [Info] Disconnect www.v2rayssr.com:443
+[2020-07-23 14:55:14] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:16] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:18] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:55:18] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:20] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:22] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:25] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:55:27] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:27] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:55:29] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:31] [Info] Disconnect www.v2rayssr.com:443
+[2020-07-23 14:55:34] [Info] Connect www.v2rayssr.com:443
+[2020-07-23 14:55:36] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:55:38] [Info] Disconnect www.v2rayssr.com:443
+[2020-07-23 14:55:39] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:55:40] [Info] Disconnect www.v2rayssr.com:443
+[2020-07-23 14:55:43] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:55:45] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:55:47] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:55:49] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:55:52] [Info] Direct connect 33h.co:80
+[2020-07-23 14:55:52] [Info] Disconnect android.clients.google.com:443
+[2020-07-23 14:55:52] [Info] Connect github.com:443
+[2020-07-23 14:55:54] [Info] Connect github.com:443
+[2020-07-23 14:55:55] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:55:57] [Info] Connect github.com:443
+[2020-07-23 14:55:59] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:00] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:56:01] [Info] Disconnect github.com:443
+[2020-07-23 14:56:03] [Info] Direct connect sp1.baidu.com:443
+[2020-07-23 14:56:04] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:06] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:56:07] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:56:11] [Info] Direct connect dss1.bdstatic.com:443
+[2020-07-23 14:56:12] [Info] Direct connect timg01.bdimg.com:443
+[2020-07-23 14:56:12] [Info] Direct connect dss2.bdstatic.com:443
+[2020-07-23 14:56:12] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:12] [Info] Direct connect sp1.baidu.com:443
+[2020-07-23 14:56:14] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:17] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:19] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:56:19] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:22] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:24] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:26] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:56:31] [Info] Connect mtalk.google.com:5228
+[2020-07-23 14:56:33] [Info] Connect mtalk.google.com:5228
+[2020-07-23 14:56:36] [Info] Connect mtalk.google.com:5228
+[2020-07-23 14:56:36] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:38] [Info] Disconnect mtalk.google.com:5228
+[2020-07-23 14:56:41] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:43] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:45] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:56:49] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:52] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:54] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:56] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:56:57] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:56:59] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:57:01] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:57:04] [Info] Connect mtalk.google.com:443
+[2020-07-23 14:57:04] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:57:06] [Info] Connect mtalk.google.com:443
+[2020-07-23 14:57:09] [Info] Connect mtalk.google.com:443
+[2020-07-23 14:57:11] [Info] Disconnect mtalk.google.com:443
+[2020-07-23 14:57:12] [Info] Direct connect ss0.baidu.com:443
+[2020-07-23 14:57:12] [Info] Direct connect ss1.baidu.com:443
+[2020-07-23 14:57:12] [Info] Direct connect ss2.baidu.com:443
+[2020-07-23 14:57:12] [Info] Direct connect ss3.baidu.com:443
+[2020-07-23 14:57:12] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:57:12] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:57:12] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:57:12] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:57:12] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:57:12] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:57:13] [Info] Direct connect dss0.bdstatic.com:443
+[2020-07-23 14:57:13] [Info] Direct connect timg01.bdimg.com:443
+[2020-07-23 14:57:13] [Info] Direct connect dss0.bdstatic.com:443
+[2020-07-23 14:57:21] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:57:23] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:57:26] [Info] Connect android.clients.google.com:443
+[2020-07-23 14:57:26] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:57:28] [Info] Disconnect android.clients.google.com:443
+[2020-07-23 14:57:30] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:57:33] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:57:35] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:57:59] [Info] Connect mtalk.google.com:5228
+[2020-07-23 14:58:02] [Info] Connect mtalk.google.com:5228
+[2020-07-23 14:58:04] [Info] Connect mtalk.google.com:5228
+[2020-07-23 14:58:05] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:58:06] [Info] Disconnect mtalk.google.com:5228
+[2020-07-23 14:58:09] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:58:11] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:58:14] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:58:44] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:58:46] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:58:49] [Info] Connect content-autofill.googleapis.com:443
+[2020-07-23 14:58:51] [Info] Disconnect content-autofill.googleapis.com:443
+[2020-07-23 14:59:18] [Info] Direct connect img.infinitynewtab.com:443
+[2020-07-23 14:59:18] [Info] Direct connect www.baidu.com:443
+[2020-07-23 14:59:33] [Info] Connect www.google.com:443
+[2020-07-23 14:59:36] [Info] Connect www.google.com:443
+[2020-07-23 14:59:38] [Info] Connect www.google.com:443
+[2020-07-23 14:59:41] [Info] Disconnect www.google.com:443
+[2020-07-23 14:59:51] [Info] Connect mtalk.google.com:443
+[2020-07-23 14:59:53] [Info] Connect mtalk.google.com:443
+[2020-07-23 14:59:56] [Info] Connect mtalk.google.com:443
+[2020-07-23 14:59:58] [Info] Disconnect mtalk.google.com:443
+[2020-07-23 15:00:02] [Info] Direct connect config.pinyin.sogou.com:80
+[2020-07-23 15:00:02] [Info] Direct connect cdn2.ime.sogou.com:80
+[2020-07-23 15:00:05] [Info] Connect github.com:443
+[2020-07-23 15:00:05] [Info] Connect github.com:443
+[2020-07-23 15:00:05] [Info] Connect github.githubassets.com:443
+[2020-07-23 15:00:08] [Info] Connect github.com:443
+[2020-07-23 15:00:10] [Info] Connect github.githubassets.com:443
+[2020-07-23 15:00:12] [Info] Connect github.com:443
+[2020-07-23 15:00:13] [Info] Connect www.google.com:443
+[2020-07-23 15:00:15] [Info] Connect github.com:443
+[2020-07-23 15:00:17] [Info] Connect github.githubassets.com:443
+[2020-07-23 15:00:19] [Info] Connect github.com:443
+[2020-07-23 15:00:21] [Info] Connect www.google.com:443
+[2020-07-23 15:00:24] [Info] Disconnect github.com:443
+[2020-07-23 15:00:25] [Info] Connect github.com:443
+[2020-07-23 15:00:26] [Info] Disconnect github.githubassets.com:443
+[2020-07-23 15:00:28] [Info] Disconnect github.com:443
+[2020-07-23 15:00:30] [Info] Connect www.google.com:443
+[2020-07-23 15:00:31] [Info] Connect github.com:443
+[2020-07-23 15:00:31] [Info] Connect github.githubassets.com:443
+[2020-07-23 15:00:31] [Info] Connect github.com:443
+[2020-07-23 15:00:31] [Info] Connect collector.githubapp.com:443
+[2020-07-23 15:00:33] [Info] Connect github.com:443
+[2020-07-23 15:00:35] [Info] Disconnect www.google.com:443
+[2020-07-23 15:00:37] [Info] Connect github.com:443

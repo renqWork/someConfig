@@ -28,28 +28,25 @@
   "outbounds": [
     {
       "tag": "proxy",
-      "protocol": "vmess",
+      "protocol": "socks",
       "settings": {
-        "vnext": [
+        "vnext": null,
+        "servers": [
           {
-            "address": "152.32.186.221",
-            "port": 10010,
-            "users": [
-              {
-                "id": "8b1743a8-735d-4a79-bbb8-e5224fb83fee",
-                "alterId": 233,
-                "email": "t@t.tt",
-                "security": "chacha20-poly1305"
-              }
-            ]
+            "email": null,
+            "address": "127.0.0.1",
+            "method": "chacha20",
+            "ota": false,
+            "password": "123456",
+            "port": 1080,
+            "level": 1
           }
         ],
-        "servers": null,
         "response": null
       },
       "streamSettings": {
         "network": "tcp",
-        "security": "",
+        "security": null,
         "tlsSettings": null,
         "tcpSettings": null,
         "kcpSettings": null,
@@ -58,7 +55,7 @@
         "quicSettings": null
       },
       "mux": {
-        "enabled": true
+        "enabled": false
       }
     },
     {
